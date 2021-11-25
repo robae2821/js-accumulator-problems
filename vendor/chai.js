@@ -6137,3 +6137,6 @@ Library.prototype.test = function(obj, type) {
     throw new ReferenceError('Type test "' + type + '" not defined or invalid.');
   }
 };
+
+},{}]},{},[1])(1)
+});
